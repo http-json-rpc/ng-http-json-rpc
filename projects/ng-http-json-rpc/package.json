@@ -1,6 +1,6 @@
 {
   "name": "ng-http-json-rpc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An HTTP JSON-RPC client for Angular.",
   "repository": {
     "type": "git",
